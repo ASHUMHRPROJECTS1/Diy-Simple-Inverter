@@ -95,8 +95,7 @@ Diy Simple Inverter: Page 2
 
 > case you want to place an order for the same circuit design.
 
-![](eadf8882c20e40ebb1f4b0f35f367d39/media/image3.png){width="7.477777777777778in"
-height="4.208333333333333in"}
+![](eadf8882c20e40ebb1f4b0f35f367d39/media/image3.png)
 
 ![](eadf8882c20e40ebb1f4b0f35f367d39/media/image5.png){width="7.477777777777778in"
 height="4.208332239720035in"}
