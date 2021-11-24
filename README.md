@@ -284,10 +284,9 @@ socket as shown below.
 > blue link.
 
 **Thank you for reading this guide, hopefully**, **this guide provides
-full steps to help you to create your own this guide provides full steps
-to help you to create your own**
+full steps to help you to create your own Diy Simple Inverter**
 
-**SmartExtention Board. If you have any questions please post them in
+**If you have any questions please post them in
 the comment section below.**
 
 
