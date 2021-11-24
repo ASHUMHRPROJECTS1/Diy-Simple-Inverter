@@ -79,7 +79,6 @@ such inverters.
 >
 > **Related Download Files**
 
-![](eadf8882c20e40ebb1f4b0f35f367d39/media/image4.png)
 > As you can see in the pictures above the PCB is very well manufactured
 > and I've got the same PCB design that we've made for our main board
 > and all the labels and logos are there to guide me during the
@@ -281,7 +280,7 @@ socket as shown below.
 > Connect the 12V Lead Acid Battery to the inverter, & your Inverter is
 > now Ready to power up your Small Ac appliances.
 >
-> New users will also get a \$30 coupon while registering atvia this
+> New users will also get a \$30 coupon while registering at JLCPCB via this
 > blue link.
 
 **Thank you for reading this guide, hopefully**, **this guide provides
