@@ -66,8 +66,8 @@ such inverters.
 > produce it, to produce the PCB, I have chosen the best PCB supplier
 > and the cheapest PCB provider to order my circuit. with the reliable
 > platform, all I need to do is some simple clicks to upload the Gerber
-> �le and set some parameters like the PCB thickness color and quantity.
-> I've paid just 2 Dollars to get my PCB after �ve days only, what I
+> file and set some parameters like the PCB thickness color and quantity.
+> I've paid just 2 Dollars to get my PCB after five days only, what I
 > have noticed about this time is the \"out-of-charge **PCB color PCB
 > color**\" which means you will pay only 2USD for any PCB color you
 > choose.
@@ -78,11 +78,8 @@ such inverters.
 > As you can see in the pictures above the PCB is very well manufactured
 > and I've got the same PCB design that we've made for our main board
 > and all the labels and logos are there to guide me during the
-> soldering steps. You can also download the Gerber �le for this circuit
-> from the download link below in
-
-
-> case you want to place an order for the same circuit design.
+> soldering steps. You can also download the Gerber file for this circuit
+> from the download link below in case you want to place an order for the same circuit design.
 
 ![](eadf8882c20e40ebb1f4b0f35f367d39/media/image3.png)
 
@@ -209,7 +206,7 @@ socket as shown below.
 
 **Step 5: )**
 
-![](eadf8882c20e40ebb1f4b0f35f367d39/media/image39.png)
+
 
 > Solder 5mm yellow LED with 1k resistor to the positive and negative
 > leg of Audio/Video jack.
@@ -249,7 +246,7 @@ socket as shown below.
 
 **Step 6: )**
 
-![](eadf8882c20e40ebb1f4b0f35f367d39/media/image48.png)
+
 
 > Connect the Green Positive wire of RED led with 1k resistor to the
 > SPST switch as shown below, connect the yellow negative wire of red
@@ -309,4 +306,4 @@ the comment section below.**
 
 
 ![](eadf8882c20e40ebb1f4b0f35f367d39/media/image60.png)
-![](eadf8882c20e40ebb1f4b0f35f367d39/media/image61.png)
+
